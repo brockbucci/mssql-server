@@ -2,7 +2,7 @@
 
 # Create, run and connect
 ```
-docker-compose.yml up -d 
+docker-compose up -d 
 
 ```
 
