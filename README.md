@@ -1,2 +1,8 @@
-# mssql-server
-MS SQL Server Stand alone docker image
+# Microsoft sql server dockerize
+
+# Create, run and connect
+```
+docker-compose.yml up -d 
+
+```
+
